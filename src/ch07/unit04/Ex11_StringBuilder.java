@@ -13,6 +13,7 @@ package ch07.unit04;
 	  : 동시성을 지원한다. - 동시에 일을 못하게 막는다.
 	  : 동시성의 문제가 발생할 경우에는 StringBuffer를 사용한다. 
 */
+
 public class Ex11_StringBuilder {
 	public static void main(String[] args) {
 		StringBuilder sb1 = new StringBuilder("seoul");
